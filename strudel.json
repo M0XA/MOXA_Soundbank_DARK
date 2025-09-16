@@ -1,6 +1,6 @@
 {
-	"_base": "https://raw.githubusercontent.com/M0XA/MOXA_Soundbank_DARK/main/",
-	"BoomBap_bd1": "Sounds/Drum/BoomBap_bd1.wav",
+  "_base": "https://raw.githubusercontent.com/M0XA/MOXA_Soundbank_DARK/main/",
+  "BoomBap_bd1": "Sounds/Drum/BoomBap_bd1.wav",
   "BoomBap_bd2": "Sounds/Drum/BoomBap_bd2.wav",
   "BoomBap_cp": "Sounds/Drum/BoomBap_cp1.wav",
   "BoomBap_cr": "Sounds/Drum/BoomBap_cr1.wav",
