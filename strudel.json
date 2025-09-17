@@ -15,6 +15,7 @@
     "BoomBap_rim": "Sounds/Drum/BoomBap_rim1.wav",
     "BoomBap_sd1": "Sounds/Drum/BoomBap_sd1.wav",
     "BoomBap_sd2": "Sounds/Drum/BoomBap_sd2.wav",
+    
     "MadMollus_bd1": "Sounds/Drum/MadMollus_bd1.wav",
     "MadMollus_bd2": "Sounds/Drum/MadMollus_bd2.wav",
     "MadMollus_fx4": "Sounds/Drum/MadMollus_fx4.wav",
@@ -28,15 +29,18 @@
     "MadMollus_sd3": "Sounds/Drum/MadMollus_sd3.wav",
     "MadMollus_sd4": "Sounds/Drum/MadMollus_sd4.wav",
     "MadMollus_bd1": "Sounds/Drum/MadMollus_bd1.wav",
+    
     "TrancilExit_fx2": "Sounds/Drum/TrancilExit_fx2.wav",
     "TrancilExit_fx3": "Sounds/Drum/TrancilExit_fx3.wav",
     "TrancilExit_perc1": "Sounds/Drum/TrancilExit_perc1.wav",
     "TrancilExit_sd1": "Sounds/Drum/TrancilExit_sd1.wav",
+    
     "808Pure": "Sounds/Synth/808Pure_2.wav",
     "DeepKeys": "Sounds/Synth/DeepKeys.wav",
     "FinelineBass": "Sounds/Synth/FinelineBass_1.wav",
     "GuitarMutte": "Sounds/Synth/GuitarMute_2.wav",
     "ModelHU": "Sounds/Synth/ModelHU.wav",
+    
     "FX_critter1": "Sounds/Sample/FX_critter1.mp3",
     "FX_alien2": "Sounds/Sample/FX_racing alien 2.wav"
 }
