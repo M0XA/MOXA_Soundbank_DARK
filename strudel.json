@@ -62,8 +62,8 @@
     "FX_critter1": "Sounds/Sample/FX_criter1.mp3",
     "FX_alien2": "Sounds/Sample/FX_racing alien 2.wav",
 
-    "Vocal_open_18": "Sounds/Sample/vocal_open_18.wav",
-    "Vocal_hook_13": "Sounds/Sample/vocal_hook_13.wav",
-    "Vocal_end_12": "Sounds/Sample/vocal_end_12.wav"
+    "vocal_open_18": "Sounds/Sample/VOCAL_OPEN_18.wav",
+    "vocal_hook_13": "Sounds/Sample/VOCAL_HOOK_13.wav",
+    "vocal_end_12": "Sounds/Sample/VOCAL_END_12.wav"
 }
 
